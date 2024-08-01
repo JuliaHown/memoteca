@@ -5,7 +5,7 @@ O memoteca é uma aplicação <i>Single Page Application</i> para o registro de 
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/JuliaHown/memoteca/tree/main/src) ou [baixá-lo](https://github.com/JuliaHown/memoteca/tree/main/src.zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/JuliaHown/memoteca/tree/main/src).
 
 ## 📚 Mais informações do curso
 
