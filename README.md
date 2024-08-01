@@ -5,8 +5,9 @@ O memoteca é uma aplicação <i>Single Page Application</i> para o registro de 
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/tree/projeto-inicial) ou [baixá-lo](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/archive/refs/heads/projeto-inicial.zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/JuliaHown/memoteca/tree/main/src) ou [baixá-lo](https://github.com/JuliaHown/memoteca/tree/main/src.zip).
 
 ## 📚 Mais informações do curso
 
 Esse curso faz parte da [Formação Explore o Framework Angular](https://cursos.alura.com.br/formacao-angular-14)
+
