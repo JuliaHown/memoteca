@@ -1,27 +1,12 @@
+![Thumbnail-Explore o Framework Angular](https://github.com/user-attachments/assets/7dbcec04-f404-4bca-bc21-510e85cfe83c)
+
 # Memoteca
+O memoteca é uma aplicação <i>Single Page Application</i> para o registro de pensamentos, visando compreender os conceitos de arquitetura do Angular, desenvolver um CRUD completo, trabalhar com formulários orientados a templates, uso de diretivas e comunicação entre componentes, e programar de forma reativa utilizando a biblioteca RxJS.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+## 📁 Acesso ao projeto
 
-## Development server
+Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/tree/projeto-inicial) ou [baixá-lo](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/archive/refs/heads/projeto-inicial.zip).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📚 Mais informações do curso
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esse curso faz parte da [Formação Explore o Framework Angular](https://cursos.alura.com.br/formacao-angular-14)
